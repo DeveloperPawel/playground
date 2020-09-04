@@ -1,4 +1,5 @@
 # Playground
+#### Pawel Nawrocki
 
 A place to play with `git`.
 
