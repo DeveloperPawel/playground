@@ -1,5 +1,6 @@
 # Playground
-### CS107 CS50 CS90
+
+#### Pawel Nawrocki is taking CS107
 
 A place to play with `git`.
 
